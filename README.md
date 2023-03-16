@@ -30,7 +30,7 @@ Prepare your dataset:
 2. Exploratory Data Analysis(EDA)
 3. Feature Engineering
 4. Model Building and Tuning
-6. Pushing code to Github
+5. Pushing code to Github
 ```
 
 
